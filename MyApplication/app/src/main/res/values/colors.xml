@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#142440</color>
+    <color name="colorPrimaryDark">#142440</color>
+    <color name="colorAccent">#24a8e0</color>
+    <color name="color_background">#FAFAFA</color>
+
+    <!-- From Zeplin -->
+    <color name="black">#000000</color>
+    <color name="dark_blue_grey">#142440</color>
+    <color name="azure">#24a8e0</color>
+    <color name="white">#ffffff</color>
+    <color name="blue_grey">#7d90a1</color>
+    <color name="brown_grey">#808080</color>
+    <color name="very_light_pink">#f2f2f2</color>
+    <color name="kelly_green">#00bc26</color>
+    <color name="red">#cc0000</color>
+    <color name="shamrock_green">#02c92f</color>
+    <color name="black_5">#0c000000</color>
+    <color name="black_10">#19000000</color>
+    <color name="black_20">#33000000</color>
+    <color name="brown_grey_two">#a3a3a3</color>
+    <color name="brown_grey_two_two">#808080</color>
+    <color name="very_light_pink_two">#d8d8d8</color>
+    <color name="brown_grey_50">#80808080</color>
+    <color name="very_light_pink_three">#dcdcdc</color>
+    <color name="brown_grey_three">#b2b2b2</color>
+    <color name="white_two">#f7f7f7</color>
+    <color name="nice_blue">#1067b0</color>
+    <color name="cobalt">#1f5c9b</color>
+    <color name="off_white">#fffffe</color>
+    <color name="cobalt_two">#205d9a</color>
+    <color name="faded_red">#d9363d</color>
+    <color name="electric_blue">#0055ff</color>
+    <color name="purply">#833ab4</color>
+    <color name="cool_blue">#39a0cd</color>
+    <color name="red_two">#ff0000</color>
+    <color name="teal_blue">#0085af</color>
+    <color name="azure_50">#8024a8e0</color>
+    <color name="brown_grey_four">#888888</color>
+    <color name="very_light_pink_0">#00b7b7b7</color>
+    <color name="grey_portfolio">#b7b7b7</color>
+    <color name="blue_grey_30">#4c7d90a1</color>
+    <color name="red_30">#4ccc0000</color>
+    <color name="kelly_green_20">#3300bc26</color>
+    <color name="very_light_pink_four">#c6c6c6</color>
+    <color name="cherry_red_35">#59e10514</color>
+    <color name="kelly_green_35">#5900bc26</color>
+    <color name="brownish_grey">#707070</color>
+    <color name="beige">#cccbc2</color>
+    <color name="kelly_green_30">#4c00bc26</color>
+    <color name="kelly_green_40">#6600bc26</color>
+    <color name="kelly_green_70">#b300bc26</color>
+    <color name="white_40">#66ffffff</color>
+    <color name="red_25">#40cc0000</color>
+    <color name="tree_green">#239220</color>
+    <!-- From Zeplin -->
+
+
+    <color name="trasnparent">#00ffffff</color>
+    <color name="azure_40">#6624A8E0</color>
+    <color name="dark_blue_grey_40">#66142440</color>
+    <color name="dark_blue_grey_30">#4D142440</color>
+    <color name="red_40">#66cc0000</color>
+    <color name="red_50">#80CC0000</color>
+    <color name="red_70">#b3cc0000</color>
+    <color name="white_20">#33FFFFFF</color>
+    <color name="color_sell">#BC261A</color>
+    <color name="color_buy">#55B842</color>
+    <color name="red_20">#33CC0000</color>
+
+</resources>
